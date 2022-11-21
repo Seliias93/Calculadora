@@ -40,7 +40,7 @@ flushOperation(parseInt(buffer));
         case '-':
         case '×':
         case '÷':
-            handleMath(sysmbol);
+            handleMath(Symbol);
             break;
 
     }
